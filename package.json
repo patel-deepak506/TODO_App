@@ -1,0 +1,15 @@
+{
+  "name": "migration_knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "use",
+  "scripts": {
+    "start": "nodemon user.js"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.0"
+  }
+}
